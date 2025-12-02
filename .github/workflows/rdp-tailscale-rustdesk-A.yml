@@ -65,8 +65,8 @@ jobs:
       max-parallel: 10
     timeout-minutes: 370
     env:
-      RDP_USER: razzdev
-      RDP_PASS: razzx11
+      RDP_USER: razzx
+      RDP_PASS: Bullet@12345
 
     steps:
       # --- CRD FIRST (prevent code timeout) ---
